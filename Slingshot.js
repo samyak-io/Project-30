@@ -19,8 +19,8 @@ class Slingshot{
             stroke(48,22,8);
   
                 strokeWeight(7);
-                line(pointA.x + 27, pointA.y + 27, pointB.x , pointB.y );
-                line(pointA.x + 27, pointA.y + 27, pointB.x , pointB.y ); 
+                line(pointA.x + 25, pointA.y + 25, pointB.x, pointB.y);
+                line(pointA.x + 24, pointA.y + 24, pointB.x, pointB.y); 
             pop();
         }
     }
